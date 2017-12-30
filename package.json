@@ -1,0 +1,16 @@
+{
+  "name": "easytestjs",
+  "version": "1.0.0",
+  "description": "Very basic test runner for an introduction to javascript testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "keywords": [
+    "test",
+    "easy",
+    "runner"
+  ],
+  "author": "Keegan Donley",
+  "license": "ISC"
+}
